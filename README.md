@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![](https://img.shields.io/badge/QQ-violet?style=flat&logo=Tencent-QQ&logoColor=black)](122079260@qq.com)
 <br>
 <br>
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich&hide=html,css&layout=compact" />
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ***
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich&hide=html,css&layout=compact" />
