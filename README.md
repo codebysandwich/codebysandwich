@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table border=none frame=void>
+<table style="border:0;">
 <tr>
-<td align="left" width="53%">
+<td align="left" width="48%">
 
 - 🚀 I’m use daily ![](https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/VScode-2C2C31?style=flat&logo=visual-studio-code&logoColor=23AFF3)
 - 🌱 I’m currently learning Machine-Learning<br>
