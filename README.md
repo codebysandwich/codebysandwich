@@ -15,14 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<style type="text/css">
- table{
-  border-collapse:collapse;  
-  border-spacing:0px;  
- }
-</style>
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="left" width="48%">
 
