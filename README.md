@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table style="border-style:none;">
+<table cellpadding="0" cellspacing="0">
 <tr>
 <td align="left" width="48%">
 
