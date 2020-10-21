@@ -1,4 +1,5 @@
 ### Hi there 👋
+***
 
 <!--
 **codebysandwich/codebysandwich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table border="0" cellpadding="0" cellspacing="0">
+<style type="text/css">
+ table{
+  border-collapse:collapse;  
+  border-spacing:0px;  
+ }
+</style>
+<table>
 <tr>
 <td align="left" width="48%">
 
