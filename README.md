@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <table border=0 frame=void>
-<tr>
+<tr border=0>
 <td align="left" width="53%">
 
 - 🚀 I’m use daily ![](https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/VScode-2C2C31?style=flat&logo=visual-studio-code&logoColor=23AFF3)
