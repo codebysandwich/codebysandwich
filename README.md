@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![](https://img.shields.io/badge/QQ-violet?style=flat&logo=Tencent-QQ&logoColor=black)](122079260@qq.com)
 <br>
 <figure class="half">
-    <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich&hide=html,css&layout=compact" /><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich" />
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich&hide=html,css&layout=compact" /><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich" />
 </figure>
 <br>
 <br>
