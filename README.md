@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine-Learning<br>
 - 🤔 I’m looking for help with ![](https://img.shields.io/badge/swift-97CA00?style=flat&logo=swift&logoColor=orange)
 - 📫 How to reach me: [![](https://img.shields.io/badge/QQ-violet?style=flat&logo=Tencent-QQ&logoColor=black)](122079260@qq.com)
-
 </figure>
 
+***
 <figure class="half">
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich&hide=html,css&layout=compact" /><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich" />
 </figure>
