@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 ### Coding Status
 ***
-<figure class="half">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich&hide=html,css&layout=compact" width="50%">
+<!-- <figure class='half'>
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich' width='50%'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich&hide=html,css&layout=compact' width='50%'>
+</figure> -->
+
+<figure class='half'>
+    <a href='../PlotInWork/饼图.ipynb'><img src='https://i.loli.net/2020/08/04/DY4VHKqeN6UkaJv.png' width='40%'></a><a href='../PlotInWork/饼图.ipynb'><img src='https://i.loli.net/2020/08/04/hozA3uPIncGLQ2J.png' width='60%'></a>
 </figure>
