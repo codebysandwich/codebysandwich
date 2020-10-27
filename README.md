@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ***
 
 <figure class='half'>
-    <a><img src='https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich' width='48%'></a><a><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich&hide=html,css&layout=compact' width='48%'></a>
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich' width='48%'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich' width='48%'>
 </figure>
