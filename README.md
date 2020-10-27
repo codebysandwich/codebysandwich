@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 ### Coding Status
 ***
 
-<figure class='half'>
+<!-- <figure class='half'>
     <a href='https://wakatime.com/dashboard'><img align='left' src='https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich' width='50%'></a><a href='https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich'><img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich' width='50%'></a>
+</figure> -->
+
+<figure class='half'>
+    <a href='../PlotInWork/common.ipynb'>
+    <img src='https://i.loli.net/2020/07/31/KOMfY98UIQdNhEF.png' width='50%'></a><a href='../PlotInWork/common.ipynb'><img src='https://i.loli.net/2020/07/31/Bz2TZ86dsyp1Rvh.png' width='50%'></a>
 </figure>
