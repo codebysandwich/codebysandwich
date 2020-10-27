@@ -27,7 +27,5 @@ Here are some ideas to get you started:
 ### Coding Status
 ***
 
-<figure class='half'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich' width='48%'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich' width='48%'>
-</figure>
+<img align='left' src='https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich' width='50%'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich' width='50%'>
