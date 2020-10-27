@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ### Coding Status
 ***
 
-<img align='left' src='https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich' width='50%'>
+<a href='https://wakatime.com/dashboard'><img align='left' src='https://github-readme-stats.vercel.app/api/wakatime?username=codebysandwich' width='50%'></a>
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=codebysandwich' width='50%'>
