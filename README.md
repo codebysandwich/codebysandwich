@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - 🚀 I’m use daily ![](https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/VScode-2C2C31?style=flat&logo=visual-studio-code&logoColor=23AFF3) ![](https://img.shields.io/badge/vim-019733?style=flat&logo=vim&logoColor=white) 
-- 🌱 I’m currently learning Machine-Learning<br>
+- 🌱 I’m currently learning Machine-Learning <br>
 - 🤔 I’m looking for help with ![](https://img.shields.io/badge/swift-97CA00?style=flat&logo=swift&logoColor=orange) ![](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white) 
 - 📫 How to reach me: [![](https://img.shields.io/badge/QQ-EB1923?style=flat&logo=Tencent-QQ&logoColor=black)](122079260@qq.com)
 <br>
